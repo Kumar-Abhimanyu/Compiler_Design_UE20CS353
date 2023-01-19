@@ -1,7 +1,0 @@
-ex1.l: to check if the string is "Hi" or not
-ex2.l: to echo whatever is input, even if you enter a new line
-ex3.l: to check for keywords from a file
-ex4.l: to check for valid or invalid identifiers
-ex5.l: to count and display the number of lines in a file
-ex6.l: to list the keywords and identifiers 
-ex7.l: to list the number of wrods, chars and lines
